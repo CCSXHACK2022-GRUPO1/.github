@@ -9,9 +9,9 @@
   <img src="https://firebasestorage.googleapis.com/v0/b/sector-salud-891d9.appspot.com/o/github_camp.png?alt=media&token=49c9709e-8f00-43ec-875e-378064ce1776" width="76">
 </p>
 
-MedicalApp es un sistema de administración de centros de salud pensada y diseñada para pacientes y doctores.
+Bajo la mano de Redes de Valor y Github Camp, logramos poder desarrollar una solucion importante para el area de Salud, Tecnologia e Innovacion.
 
-Bajo con la mano de Redes de Valor y Github Camp, logramos de poder desarrollar una solucion importante para el area de Salud, Tecnologia e Innovacion.
+MedicalApp es un sistema de administración de centros de salud pensada y diseñada para pacientes y doctores.
 
 <p align='center'>
   <img src="./web.jpeg" alt="MedicalApp logo" width="auto" height="300">
