@@ -14,6 +14,6 @@ Bajo la mano de Redes de Valor y Github Camp, logramos poder desarrollar una sol
 MedicalApp es un sistema de administración de centros de salud pensada y diseñada para pacientes y doctores.
 
 <p align='center'>
-  <img src="./web.jpeg" alt="MedicalApp logo" width="auto" height="300">
-  <img src="./mobile.png" alt="MedicalApp logo" width="auto" height="300">
+  <img src="./web.jpeg" alt="MedicalApp web version" width="auto" height="300">
+  <img src="./mobile.png" alt="MedicalApp mobile version" width="auto" height="300">
 </p>
