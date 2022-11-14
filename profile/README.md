@@ -9,3 +9,8 @@ Bajo con la mano de Redes de Valor y Github Camp, logramos de poder desarrollar 
 <img src="https://firebasestorage.googleapis.com/v0/b/sector-salud-891d9.appspot.com/o/Redes_Valores.jpg?alt=media&token=c4532844-7921-4bea-bc7b-e7b5ac890bdc" />
 
 <img src="https://firebasestorage.googleapis.com/v0/b/sector-salud-891d9.appspot.com/o/github_camp.png?alt=media&token=49c9709e-8f00-43ec-875e-378064ce1776" width="128">
+
+<p align='center'>
+  <img src="./web.jpeg" alt="MedicalApp logo" width="auto" height="300">
+  <img src="./mobile.png" alt="MedicalApp logo" width="auto" height="300">
+</p>
